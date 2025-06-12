@@ -31,7 +31,7 @@ This tool crawls through a target web application, identifies input points, and 
 ---
 
 ## 📁 Folder Structure (Planned)
- webapp-vuln-scanner/
+📁 webapp-vuln-scanner/
 ├── scanner/
 │   ├── crawler.py
 │   ├── payloads.py
@@ -43,8 +43,6 @@ This tool crawls through a target web application, identifies input points, and 
 ├── reports/
 ├── README.md
 └── requirements.txt
-
-
 
 ---
 
