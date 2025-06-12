@@ -31,18 +31,19 @@ This tool crawls through a target web application, identifies input points, and 
 ---
 
 ## 📁 Folder Structure (Planned)
-webapp-vuln-scanner/
+ webapp-vuln-scanner/
 ├── scanner/
-│ ├── crawler.py
-│ ├── payloads.py
-│ ├── detect.py
-│ └── logger.py
+│   ├── crawler.py
+│   ├── payloads.py
+│   ├── detect.py
+│   └── logger.py
 ├── webapp/
-│ ├── templates/
-│ └── app.py
+│   ├── templates/
+│   └── app.py
 ├── reports/
 ├── README.md
 └── requirements.txt
+
 
 
 ---
